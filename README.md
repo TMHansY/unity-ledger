@@ -31,7 +31,7 @@ When you connect your wallet, the app compares your address against the `admin` 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/TMHansY/unity-ledger
 cd UnityLedger
 ```
 
