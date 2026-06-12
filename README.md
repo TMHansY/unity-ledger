@@ -46,6 +46,10 @@ npm install
 ```bash
 npm install -g truffle
 ```
+If an error with permission pops up use sudo, but might require your computer's password
+```bash
+sudo npm install -g truffle
+```
 
 ### 4. Set up Ganache
 
