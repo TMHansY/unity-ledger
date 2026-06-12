@@ -32,7 +32,7 @@ When you connect your wallet, the app compares your address against the `admin` 
 
 ```bash
 git clone https://github.com/TMHansY/unity-ledger
-cd UnityLedger
+cd unity-ledger
 ```
 
 ### 2. Install Node dependencies
